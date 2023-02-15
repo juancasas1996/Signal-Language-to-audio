@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello10.jpeg</filename>
+	<path>C:\Users\jcasas\OneDrive - Asesoftware S.A.S\Documentos\MINST_LANGUAGE\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\hello10.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3088</width>
+		<height>1737</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>444</ymin>
+			<xmax>1315</xmax>
+			<ymax>1580</ymax>
+		</bndbox>
+	</object>
+</annotation>

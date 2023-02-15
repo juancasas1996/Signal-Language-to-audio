@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>iloveyou16.jpg</filename>
+	<path>/Users/sebastian/Desktop/MINST/MINST_LANGUAGE/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/iloveyou16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3088</width>
+		<height>1737</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I Love You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1136</xmin>
+			<ymin>550</ymin>
+			<xmax>1601</xmax>
+			<ymax>1012</ymax>
+		</bndbox>
+	</object>
+</annotation>
