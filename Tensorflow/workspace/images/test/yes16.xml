@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes16.jpg</filename>
+	<path>/Users/sebastian/Desktop/MINST/MINST_LANGUAGE/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/yes16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3088</width>
+		<height>1737</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>670</xmin>
+			<ymin>516</ymin>
+			<xmax>1120</xmax>
+			<ymax>869</ymax>
+		</bndbox>
+	</object>
+</annotation>
